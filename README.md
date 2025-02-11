@@ -1,5 +1,5 @@
-# AHMDF
-pytorch code for AHMDF
+# CityEVCP
+pytorch code for CityEVCP
 
 The dataset used in the article is at the link: https://github.com/IntelligentSystemsLab/ST-EVCDP
 
